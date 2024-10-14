@@ -1,9 +1,9 @@
 @import url(fielsd/index.css);
 
 form {
-  margin: 3rem;
+  margin-top: 3rem;
 }
-grid
+
 fieldset {
   border: none;
   display: grid;
