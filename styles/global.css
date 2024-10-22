@@ -18,6 +18,7 @@
   --stroke-default: #D6D3D1;
   --stroke-hightlight: #F3541C;
   --semantic-error: #DC2626;
+  --surface-disable: #E7E5E4;
 }
 
 body {
@@ -33,4 +34,16 @@ h1, h2 {
 img {
   max-width: 100%;
   height: auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.flex-2 {
+  flex: 2;
 }
